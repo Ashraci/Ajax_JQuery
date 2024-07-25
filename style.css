@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#story-list {
+    margin-top: 20px;
+}
+
+.story {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
